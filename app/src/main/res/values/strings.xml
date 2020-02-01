@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="text1">میزان مصرف برق</string>
+    <string name="text2">دمای محیط</string>
+    <string name="text3">اتصال</string>
+    <string name="text4">1000</string>
+    <string name="text5">15</string>
+    <string name="text6">دمای محیط</string>
+    <string name="text7">korsi</string>
+    <string name="text8">weather</string>
+    <string name="text9">Room</string>
+    <string name="text10">35</string>
+    <string name="text11">5</string>
+
+</resources>
